@@ -1,4 +1,4 @@
-# LinguagensDeProgramacao_2023.1
+# Linguagens De Programacao - 2023.1
 
 Este repositório foi criado para armazenar os trabalhos realizados ao longo da disciplina CIC0093 - Linguagens de Programação, realizada no semestre 2023.1 com o professor Vander
 
